@@ -1,0 +1,21 @@
+{
+    "name": "cut-html-css-grocerymart-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "sass": "sass scss:assets/css -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dinhminhkhac/Cut-Html-Css-Grocerymart-Project.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/dinhminhkhac/Cut-Html-Css-Grocerymart-Project/issues"
+    },
+    "homepage": "https://github.com/dinhminhkhac/Cut-Html-Css-Grocerymart-Project#readme"
+}
